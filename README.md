@@ -5,7 +5,7 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書綜合數據庫  
 
 Date published : 18 October 2015  
-Last modified : 16 September 2016  
+Last modified : 6 April 2019
 
 ---
 ## Medieval China dictionaries
@@ -33,12 +33,12 @@ Yuanben Yupian quoted fragments in other books
 Daguang Yihui Yupian 大広益会玉篇, Song print 宋本. Chen Pengnian of the Song dynasty 宋・陳彭年, 1013.
 
 #### File
-* SYP.txt  
+* SYP.tsv  
 Date: 20 October 2015  
 初版公開日  
-Ikeda Shoju 池田　証壽, Chair 代表  
-Li Yuan 李　媛, Person in Charge 担当者    
-Shirasu Hiroyuki 白須　裕之, Cooperator 校正協力者 (Songben Yupian Vol.1)
+Ikeda Shoju 池田 証壽, Chair 代表  
+Li Yuan 李 媛, Person in Charge 担当者    
+Shirasu Hiroyuki 白須 裕之, Cooperator 校正協力者 (Songben Yupian Vol.1)
 
 ### Longkan Shoujing 龍龕手鏡
 #### GLS: Gaoliben Longkan Shoujing database
@@ -54,7 +54,7 @@ In preparation.
 A list of Gaoliben Longkan Shoujing radicals : Zhonghua Book Company edition (中華書局版), Keijo Imperial University edition (京城帝国大学版) and National Diet Library Digital Collections.  
 Date: 9 May 2016  
 初版公開日  
-Ikeda Shoju 池田　証壽  
+Ikeda Shoju 池田 証壽  
   
 ------------------------
 
@@ -64,6 +64,7 @@ Ikeda Shoju 池田　証壽
 #### KTB:  Kosanjibon Tenrei Bansho Meigi database 
 
 Tenrei banshō meigi 篆隷萬象名義, Kōsanji copy 高山寺本. monk Kūkai of the Heian period 空海, c. 827-835.
+
 #### Files
 * KTB_entries.txt  
 Date: 29 April 2016  
@@ -71,7 +72,7 @@ Date: 29 April 2016
 Ikeda Shoju 池田　証壽, Chair 代表  
 Li Yuan 李　媛, Person in Charge 担当者    
 
-* KTB.txt  -- Full text version  
+* KTB.tsv  -- Full text version  
 Date: 1 September 2016  
 初版公開日  
 Ikeda Shoju 池田　証壽, Chair 代表  
@@ -90,8 +91,21 @@ Ikeda Shoju 池田　証壽
 Shinsen jikyō 新撰字鏡, Tenji copy 天治本. Buddhist monk Shōju 昌住, c. 898-901.
 
 #### Files
-* TSJ.txt  
-In preparation.
+
+* TSJ_entries.tsv -- Full list of headwords  
+Date: 28 June 2018  
+初版公開日  
+Ikeda Shoju 池田 証壽, Chair 代表  
+Li Yuan 李 媛, Person charge of text data proofreading データ入力・点検の担当   
+Liu Guanwei 劉 冠偉, Person in charge of image database design and implementation 画像データベース設計・実装の担当   
+
+* TSJ_definitions.tsv -- Headwords and definitions  
+Date: 28 June 2018  
+初版公開日  
+Ikeda Shoju 池田 証壽, Chair 代表  
+Li Yuan 李 媛, Person charge of text data proofreading データ入力・点検の担当   
+Liu Guanwei 劉 冠偉, Person in charge of image database design and implementation 画像データベース設計・実装の担当   
+
 
 ### Zushoryobon Ruiju Myogisho 図書寮本類聚名義抄
 #### ZRM: Zushoryobon Ruiju Myogisho database
@@ -108,19 +122,19 @@ In preparation.
 Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. anonymous Buddhist monk, the latter half of the 12th century.
 
 #### Files
-* KRM.txt  
+* KRM.tsv  
 under construction.
 
 * KRM_ndl.txt  
 Kanchiinbon Ruiju Myogisho (KRM) : Kazama Shobo edition, Tenri Zempon Sosho edition and National Diet Library Digital Collections.  
 Date: 20 October 2015  
 初版公開日  
-Ikeda Shoju 池田　証壽  
+Ikeda Shoju 池田 証壽  
 
 ## Project Members
 The Editorial Committee of HDIC Database Project
 平安時代漢字字書総合データベース編纂委員会  
-Ikeda Shoju 池田　証壽, Chair 委員長  
+Ikeda Shoju 池田 証壽, Chair 委員長  
 
 
 ## Contact
